@@ -3,9 +3,14 @@
 #### Taeyun Roh --@txxnrd
 
 
-<p>👋 Hello, I'm Taeyun Roh. I'm currently studying Computer Science at Korea University. </p>
+👋 Hello, I'm Taeyun, Passionate about Frontend Development and contributing to open-source projects.
+
+
+#### 🎓 Education
+- Studying Computer Science at Korea University since 2022.
+- 
 <br/>
-I usually work with 
+#### 💻 Technical Skills
 <div>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
@@ -17,6 +22,13 @@ I usually work with
 </div>
 
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=txxnrd&show_icons=true&theme=radical)
+
+#### 🌐 Social Media
+- [Instagram](https://instagram.com/txx_nrd/)
+- [LinkedIn](https://www.linkedin.com/in/roh-taeyun-018087233/)
+- [Blog](https://blog.naver.com/nrbsld237)
+- [Tistory](https://taeng-develop.tistory.com)
+
 <!--
 **txxnrd/txxnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
