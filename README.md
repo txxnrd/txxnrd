@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://txxnrd.github.io/)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-#40AEFO?style=?style=for-the-badge&logo=About.me&logoColor=#FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=txxnrd&show_icons=true&theme=radical)
 <!--
