@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🤪 Just for Fun~! 🤪
+
+#### Taeyun Roh --@txxnrd
+
+
+<p>👋 Hello, I'm Taeyun Roh. I'm currently studying Computer Science at Korea University. </p>
+
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
