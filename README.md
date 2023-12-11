@@ -7,7 +7,9 @@
 
 
 #### 🎓 Education
-- Studying Computer Science at Korea University since 2022.
+- Studying Computer Science at Korea University 2022~.
+- Attended KAIST MadCamp 2023.06~2023.07
+- Undergraduate Research Intern in Korea University System Software lab 2023.12~
 
 
 ####  💻 Technical Skills
