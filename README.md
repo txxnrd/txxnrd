@@ -8,7 +8,7 @@
 
 #### 🎓 Education
 - Studying Computer Science at Korea University since 2022.
-- 
+
 
 ####  💻 Technical Skills
 <div>
@@ -23,11 +23,7 @@
 
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=txxnrd&show_icons=true&theme=radical)
 
-#### 🌐 Social Media
-- [Instagram](https://instagram.com/txx_nrd/)
-- [LinkedIn](https://www.linkedin.com/in/roh-taeyun-018087233/)
-- [Blog](https://blog.naver.com/nrbsld237)
-- [Tistory](https://taeng-develop.tistory.com)
+
 
 <!--
 **txxnrd/txxnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
