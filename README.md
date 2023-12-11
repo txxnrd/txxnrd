@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/actigraph-3776AB?style=for-the-badge&logo=ActiGraph&logoColor=white">
+<img src="https://img.shields.io/badge/actigraph-3776AB?style=for-the-badge&logo=actigraph&logoColor=white">
 
 
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=txxnrd&show_icons=true&theme=radical)
