@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/javascript-F7DF1EB?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=txxnrd&show_icons=true&theme=radical)
