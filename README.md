@@ -9,7 +9,7 @@
 #### 🎓 Education
 - Studying Computer Science at Korea University since 2022.
 - 
-<br/>
+
 ####  💻 Technical Skills
 <div>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
