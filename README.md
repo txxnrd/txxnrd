@@ -6,7 +6,7 @@
 👋 Hello, I'm Taeyun, Passionate about Frontend Development and contributing to open-source projects.
 
 #### 👦🏻 Project
-- 🔭 I’m currently developing Dating mobile App Blurting, insurance care web Bogo
+- 🔭 I’m currently developing Blind Dating App "Blurting"
 
 #### 🎓 Education
 - Studying Computer Science at Korea University 2022~.
