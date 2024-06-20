@@ -3,7 +3,7 @@
 #### Taeyun Roh --@txxnrd
 
 
-👋 Hello, I'm Taeyun, Passionate about Frontend Development and contributing to open-source projects.
+👋 Hello, I'm Taeyun, Passionate about System Software and contributing to open-source projects.
 
 #### 👦🏻 Project
 - 🔭 I’m currently developing Blind Dating App "Blurting"
