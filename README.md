@@ -1,47 +1,73 @@
-### 😎 Welcome to Taeyun Roh's GitHub Profile 😎
+# 👋 Hi, I'm Taeyun Roh
 
-Hello, I'm Taeyun, an AI Researcher passionate about building reliable and efficient AI systems. My primary interests lie in **Large Language Models (LLM)**, with a special focus on **Information Retrieval** and **Efficient LLM Inference**.
+I am an **M.S. student and LLM researcher at Korea University**, working at the
+[Data Mining & Information Systems Laboratory (DMIS Lab)](https://dmis.korea.ac.kr/)
+under the supervision of [Prof. Jaewoo Kang](https://dmis.korea.ac.kr/).
 
+My research focuses on building **AI agents that understand their environments,
+organize and retain useful memories, and make better decisions through visually
+grounded reasoning**.
 
----
-
-### 🏆 Awards & Recognition
-
-* **1st Place in Korea University Capstone Design**: Developed NEWSQRAB, an AI-powered service that automatically generates short-form news videos using Retrieval-Augmented Generation (RAG)-based LLMs.
-* **2nd Place at Korea University NEXT Software Competition**: Contributed as an AI Engineer for the NEWSQRAB project.
-* **3rd Place at the 2024 KIISE Conference (Undergraduate Category)**: Awarded for the paper titled 'Analysis on Research for Data and Resource Heterogeneity in Split-Federated Learning'.
-* **2nd Place in 2023 Korea University Hackathon**: Developed a mobile app to predict and recommend less crowded areas in Han River parks.
-
----
-
-### 💻 Projects
-
-* 🔭 I developed the blind dating app "**Blurting**" as a Frontend Developer. The app successfully ranked 73rd in the App Store's Social Networking Category in Korea.
-* **Aigensciences**: Researching LLM agents and machine learning algorithms for biomedical drug discovery.
-* **Xalute**: Collaborated with Korea University Anam Hospital to develop a digital healthcare mobile application that interfaces with wearable devices, enabling real-time health tracking and intelligent alerts.
-* **Kakao Pediatric Response Chatbot**: Co-developed a pediatric Q&A chatbot with Kakao Healthcare and Korea University Anam Hospital, utilizing large language models to provide real-time healthcare information to parents.
+<p align="left">
+  <a href="https://txxnrd.github.io/">Website</a> •
+  <a href="https://scholar.google.com/">Google Scholar</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://txxnrd.github.io/CV.pdf">CV</a>
+</p>
 
 ---
 
-### 🎓 Education
+## 🔬 Research Interests
 
-* **Korea University** (2022 - Present)
-    * Bachelor of Science in Computer Science and Engineering.
-    * Incoming Master Student from March 2026.
+- **AI Agents and Agentic Memory**
+- **Large Language Models**
+- **Multimodal and Visually Grounded Reasoning**
+- **Reliable and Efficient LLM Inference**
 
 ---
 
-### 🛠️ Technical Skills
+## 📄 Selected Publications
 
-<div>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https.://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+### CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents
+**Taeyun Roh**, Wonjune Jang, Junha Jung, Jaewoo Kang  
+**ACL 2026**
+
+- Introduces an agent-driven memory organization framework for small language model agents.
+- Dynamically clusters and restructures accumulated memories to support effective retrieval and decision-making.
+
+### Distilling Expert-level Planning for Real-world Diabetes Prescribing
+Yein Park, Sihyeon Park, **Taeyun Roh**, Mujeen Sung, Jaehoon Yun, Sooyeon Lee, Sanghoon Lee, Jaewoo Kang  
+**ICML 2026 Workshop on Structured Data for Health**
+
+### When Choices Become Priors: Contrastive Decoding for Scientific Figure Multiple-Choice QA
+**Taeyun Roh**, Eun-yeong Jo, Wonjune Jang, Jaewoo Kang  
+**Under Review**
+
+### Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning
+Junha Jung, Minbyul Jeong, Suhyeon Lim, Sungwook Jung, Jaehoon Yun, **Taeyun Roh**, Mujeen Sung, Jaewoo Kang  
+**Under Review**
+
+---
+
+## 🎓 Education
+
+### Korea University
+**M.S. in Computer Science and Engineering**  
+March 2026 – Present
+
+### Korea University
+**B.S. in Computer Science and Engineering**  
+March 2022 – February 2026
+
+---
+
+## 🛠️ Technical Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</p>
