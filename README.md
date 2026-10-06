@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taeyun Roh
 
-I am an **M.S. student and LLM researcher at Korea University**, working at the
+I am an AI Research Intern at Samsung Research America and **M.S. student at Korea University**, working at the
 [Data Mining & Information Systems Laboratory (DMIS Lab)](https://dmis.korea.ac.kr/)
 under the supervision of [Prof. Jaewoo Kang](https://dmis.korea.ac.kr/).
 
@@ -45,7 +45,7 @@ Yein Park, Sihyeon Park, **Taeyun Roh**, Mujeen Sung, Jaehoon Yun, Sooyeon Lee, 
 
 ### Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning
 Junha Jung, Minbyul Jeong, Suhyeon Lim, Sungwook Jung, Jaehoon Yun, **Taeyun Roh**, Mujeen Sung, Jaewoo Kang  
-**Under Review**
+**EMNLP 2026**
 
 ---
 
