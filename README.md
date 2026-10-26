@@ -57,15 +57,6 @@ Step-aware reinforcement learning reduces cascading errors in medical multimodal
 
 [Paper](https://arxiv.org/abs/2606.31825) · [Abstract](https://txxnrd.github.io/research/mrpo/#abstract) · [Code](https://github.com/dmis-lab/MRPO) · [BibTeX](https://txxnrd.github.io/citations/mrpo.bib)
 
-### [From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b](https://txxnrd.github.io/research/bioasq14b/)
-**Taeyun Roh**, Eunha Lee, Wonjune Jang, Sohyun Chung, Junha Jung, Jaewoo Kang
-
-**arXiv preprint · 2026**
-
-Answer-type-aware language model pipelines combine evidence grounding, voting, and agent collaboration.
-
-[Paper](https://arxiv.org/abs/2607.06452) · [Abstract](https://txxnrd.github.io/research/bioasq14b/#abstract) · [BibTeX](https://txxnrd.github.io/citations/bioasq14b.bib)
-
 ### [Distilling Expert-level Planning for Real-world Diabetes Prescribing](https://txxnrd.github.io/research/diabetes-planning/)
 Yein Park, Sihyeon Park, **Taeyun Roh**, Mujeen Sung, Jaehoon Yun, Sooyeon Lee, Sanghoon Lee, Jaewoo Kang
 
